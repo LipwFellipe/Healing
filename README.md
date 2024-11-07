@@ -5,16 +5,16 @@ Desenvolvi esse projeto na PyStack WEEK e aprendi bastante sobre desenvolvimento
 
 ## Pagina para Logar
 
-<img src="" alt="login">
+<img src="login.png" alt="login">
 
 ## Pagina Inicial
 Nesta pagina o Paciente pode marcar uma consulta no horario que o medico disponibilizou para a consulta:
 Além disso, quando se faz um casatro você pode se tornar Médico se tiver um CRM válido.
-<img src="Captura de tela 2024-11-07 122531.png" alt="Pagina inicial">
+<img src="Pag Inicial.png" alt="Pagina inicial">
 
 ## Dados Médico
 Quando o Paciente aceitar uma consulta em um horário específico, ele pode adicionar em seu calendario para não esquecer, acessar a consulta clicando no link do Google Meet que o medico disponibilizará e além disso poderá ver documentos que o médico mandar para o paciente.
-<img src="Captura de tela 2024-11-07 122645.png" alt="Dados medico">
+<img src="Dados.png" alt="Dados medico">
 
 ## Primeiros passos:
 
